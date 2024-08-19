@@ -2,11 +2,15 @@
 
 This project for CPT212 involves implementing and analyzing multiplication algorithms.
 
-- **Simple Multiplication:** Basic digit-by-digit multiplication.
-- **Karatsuba Algorithm:** Optimized multiplication with operation counters and complexity analysis.
+**Simple Multiplication:** Basic digit-by-digit multiplication.
 
 <p>
   <img width="368" alt="Screenshot 2024-08-19 at 4 57 29 PM" src="https://github.com/user-attachments/assets/20eea200-852d-43c2-8295-4719371b63e7" style="display:inline-block; margin-right:10px;" />
+</p>
+
+**Karatsuba Algorithm:** Optimized multiplication with operation counters and complexity analysis.
+
+<p>
   <img width="511" alt="Screenshot 2024-08-19 at 4 57 52 PM" src="https://github.com/user-attachments/assets/4c0b1d11-4ea3-4ab1-9391-c5946080993f" style="display:inline-block;" />
 </p>
 
