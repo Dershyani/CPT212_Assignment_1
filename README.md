@@ -5,45 +5,39 @@ This project for CPT212 involves implementing and analyzing multiplication algor
 - Simple Multiplication: Basic digit-by-digit multiplication.
 - Karatsuba Algorithm: Optimized multiplication with operation counters and complexity analysis.
 
-<img src="pdf_converter/Preview.gif" alt="Preview Leafy Website GIF" width="1200px" />
 
-Prerequisites
+## Prerequisites
 
 Java Development Kit (JDK) installed. Download from Oracle.
 
 ## How To Use
 
-1. **Pull the Docker images**
+1. **Clone the repository**
    
    ```bash
-   docker pull httpd
-   docker pull php:apache
+   git clone https://github.com/Lithia22/CPT212_Assignment_1.git
    ```
 
-2. **Download the repository**
+2. **Navigate to the project directory**
    
    ```bash
-   git clone https://github.com/Lithia22/CAT201_Assignment_1.git
+   cd Multiplication
    ```
    
-3. **Enter the project folder**
+3. **Compile the program**
    
    ```bash 
-   cd pdf_converter
+   javac SimpleMultiplication.java Karatsuba.java
    ```
    
-4. **Launch the Docker container**
+4. **Run the Simple Multiplication**
    
    ```bash
-   docker run -d -p 8000:80 --name PDF_converter -v "$(pwd)":/var/www/html php:apache
+   java SimpleMultiplication
    ```
    
-5. **Verify the container is running**
+5. **Run the Karatsuba Algorithm**
    
    ```bash
-   docker ps
+   java Karatsuba
    ```
-   
-6. Access the application at localhost:8000 to start converting PDFs and TXT files.
-
-## Sample Output
