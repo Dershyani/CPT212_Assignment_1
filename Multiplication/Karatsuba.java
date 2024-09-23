@@ -3,7 +3,7 @@
 import java.util.Random;
 
 // Main class
-class CPT212_KaratsubaAlgorithm {
+class Karatsuba {
 
     // Global counter for primitive operations
     static long operationCount = 0;
