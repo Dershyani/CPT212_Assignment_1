@@ -29,7 +29,7 @@ This project for CPT212 involves implementing and analyzing multiplication algor
 2. **Navigate to the project directory**
    
    ```bash
-   cd Multiplication
+   cd CPT212_Assignment_1/Multiplication
    ```
    
 3. **Compile the program**
