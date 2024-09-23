@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class SimpleMult_Small_Input {
+public class SimpleMult {
     static int processCount = 1;
     static int primitiveCounter = 0;
 
