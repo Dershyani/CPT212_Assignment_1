@@ -35,13 +35,13 @@ This project for CPT212 involves implementing and analyzing multiplication algor
 3. **Compile the program**
    
    ```bash 
-   javac SimpleMultiplication.java Karatsuba.java
+   javac SimpleMult.java Karatsuba.java
    ```
    
 4. **Run the Simple Multiplication**
    
    ```bash
-   java SimpleMultiplication
+   java SimpleMult
    ```
    
 5. **Run the Karatsuba Algorithm**
